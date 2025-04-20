@@ -1,0 +1,6 @@
+{
+    "Content-Type": "text/html",
+    "X-Custom-Header": "MyValue",
+    "Server": "SquareSec 1.33.7"
+  }
+  
